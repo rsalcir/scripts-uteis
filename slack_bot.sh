@@ -16,6 +16,8 @@
 ##############################################################################
 
 #!/bin/bash
+export LANG=pt_BR
+
 SLACK_USER_TOKEN=""
 CANAL_DEV="dev-channel"
 CANAL_TIME="channel"
